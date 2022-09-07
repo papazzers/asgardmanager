@@ -1,5 +1,3 @@
-> This bot was created because of the permanently InviteManager maintenances. ManageInvite is more easily to setup!
-
 <h2>Configuration commands</h2>
 
 Configuration commands are restricted to server administrators.
